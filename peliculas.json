@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Pelicula 1",
+    "portada": "https://tuservidor.com/p1.jpg",
+    "video": "https://tuservidor.com/p1.mp4"
+  },
+  {
+    "titulo": "Pelicula 2",
+    "portada": "https://tuservidor.com/p2.jpg",
+    "video": "https://tuservidor.com/p2.mp4"
+  }
+]
